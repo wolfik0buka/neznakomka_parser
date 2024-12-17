@@ -1,0 +1,154 @@
+[
+    {
+        "name": "Платья женские",
+        "link": "https://neznakomka.spb.ru/24-platya-zhenskie",
+        "children": [
+            {
+                "name": "Нарядно-деловые платья",
+                "link": "https://neznakomka.spb.ru/28-naryadno-delovye",
+                "children": []
+            },
+            {
+                "name": "Вечерние платья",
+                "link": "https://neznakomka.spb.ru/25-vechernie-platya",
+                "children": []
+            },
+            {
+                "name": "Деловые платья",
+                "link": "https://neznakomka.spb.ru/26-delovye-platya",
+                "children": []
+            },
+            {
+                "name": "Летние платья",
+                "link": "https://neznakomka.spb.ru/27-letnie-platya",
+                "children": []
+            },
+            {
+                "name": "Сарафаны",
+                "link": "https://neznakomka.spb.ru/210-sarafany",
+                "children": []
+            },
+            {
+                "name": "Платья-макси",
+                "link": "https://neznakomka.spb.ru/29-platya-maksi",
+                "children": []
+            },
+            {
+                "name": "Платья-миди",
+                "link": "https://neznakomka.spb.ru/30-platya-midi",
+                "children": []
+            },
+            {
+                "name": "Повседневные платья",
+                "link": "https://neznakomka.spb.ru/31-povsednevnye-platya",
+                "children": []
+            },
+            {
+                "name": "Классические женские платья",
+                "link": "https://neznakomka.spb.ru/74-klassicheskie-zhenskie-platya",
+                "children": []
+            },
+            {
+                "name": "Офисные женские платья",
+                "link": "https://neznakomka.spb.ru/77-ofisnye-zhenskie-platya",
+                "children": []
+            },
+            {
+                "name": "Платье-рубашка",
+                "link": "https://neznakomka.spb.ru/78-platya-rubashka",
+                "children": []
+            },
+            {
+                "name": "Платья в пол",
+                "link": "https://neznakomka.spb.ru/83-platya-v-pol",
+                "children": []
+            }
+        ]
+    },
+    {
+        "name": "Юбки женские",
+        "link": "https://neznakomka.spb.ru/42-yubki-zhenskie-modnye",
+        "children": [
+            {
+                "name": "Юбки-миди",
+                "link": "https://neznakomka.spb.ru/43-yubki-midi",
+                "children": []
+            },
+            {
+                "name": "Юбки-макси",
+                "link": "https://neznakomka.spb.ru/44-yubki-maksi",
+                "children": []
+            },
+            {
+                "name": "Юбки классические женские",
+                "link": "https://neznakomka.spb.ru/84-yubka-klassicheskaya",
+                "children": []
+            },
+            {
+                "name": "Юбка брюки",
+                "link": "https://neznakomka.spb.ru/41-yubka-bryuki",
+                "children": []
+            },
+            {
+                "name": "Юбки карандаш женские",
+                "link": "https://neznakomka.spb.ru/87-yubki-karandash",
+                "children": []
+            },
+            {
+                "name": "Юбки-трапеция женские",
+                "link": "https://neznakomka.spb.ru/88-yubka-trapeciya",
+                "children": []
+            }
+        ]
+    },
+    {
+        "name": "Пальто, плащи, куртки",
+        "link": "https://neznakomka.spb.ru/33-palto-plasshi-kurtki",
+        "children": []
+    },
+    {
+        "name": "Головные уборы",
+        "link": "https://neznakomka.spb.ru/226-golovnye-ubory",
+        "children": []
+    },
+    {
+        "name": "Жакеты, кардиганы, пончо",
+        "link": "https://neznakomka.spb.ru/34-zhakety-kardigany-poncho",
+        "children": []
+    },
+    {
+        "name": "Джемперы, туники, водолазки",
+        "link": "https://neznakomka.spb.ru/35-dzhempery-tuniki-vodolazki",
+        "children": []
+    },
+    {
+        "name": "Брюки, джинсы, кюлоты",
+        "link": "https://neznakomka.spb.ru/36-bryuki-dzhinsy-kyuloty",
+        "children": []
+    },
+    {
+        "name": "Блузки, рубашки",
+        "link": "https://neznakomka.spb.ru/37-bluzki-rubashki",
+        "children": []
+    },
+    {
+        "name": "Жилеты женские",
+        "link": "https://neznakomka.spb.ru/38-zhilety-zhenskie",
+        "children": []
+    },
+    {
+        "name": "Топы, майки, футболки",
+        "link": "https://neznakomka.spb.ru/39-topy-majki-futbolki",
+        "children": []
+    },
+    {
+        "name": "Гигиенические маски",
+        "link": "https://neznakomka.spb.ru/229-gigienicheskie-maski",
+        "children": []
+    },
+    {
+        "name": "Туники женские",
+        "link": "https://neznakomka.spb.ru/40-tuniki-zhenskie",
+        "children": []
+    }
+]
